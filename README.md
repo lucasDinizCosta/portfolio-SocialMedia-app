@@ -9,9 +9,22 @@
 - HTML;
 - CSS (Tailwind);
 - JavaScript;
+- React
 - Sanity (Sanity é a plataforma mais flexível para criar soluções de conteúdo orientadas por dados);
   - Link especial: https://www.sanity.io/javascriptmastery
 - https://www.sanity.io/docs
+
+## Organização do projeto:
+- Frontend:
+  - HTML;
+  - CSS;
+  - Javascript;
+  - Node;
+  - React;
+- Backend:
+  - Javascript;
+  - Node;
+  - Sanity (Ferramenta que apresenta um banco de dados para imagens de maneira mais fácil);
 
 ## Comandos de destaque
 - `sanity start` ==> inicializa o servidor local com a ferramenta sanity.
